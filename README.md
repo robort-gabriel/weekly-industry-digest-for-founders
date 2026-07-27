@@ -5,9 +5,12 @@
   Get one short, reshare-ready LinkedIn digest post, built on Zo Computer and compatible with Claude AI.
 </p>
 
-<p align="center">
-  <img src="https://zo.pub/robort/weekly-industry-digest-for-founders/zo-logo.png" alt="Zo Computer" width="64" /> <img src="https://zo.pub/robort/weekly-industry-digest-for-founders/claude-logo.png" alt="Claude AI" width="64" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://zo.pub/robort/weekly-industry-digest-for-founders/zo-logo.png" alt="Zo Computer" width="64" /></td>
+    <td align="center"><img src="https://zo.pub/robort/weekly-industry-digest-for-founders/claude-logo.png" alt="Claude AI" width="64" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://zo.pub/robort/weekly-industry-digest-for-founders/pipeline-diagram.svg" alt="Scan to Track to Digest pipeline" width="560" />
